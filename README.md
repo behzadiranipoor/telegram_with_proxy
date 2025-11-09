@@ -13,4 +13,5 @@
 ### نصب وابستگی‌ها
 
 ```bash
-pip install python-telegram-bot httpx
+pip install python-telegram-bot PySocks
+
