@@ -7,7 +7,7 @@ import os
 os.environ['HTTP_PROXY'] = 'socks5://127.0.0.1:12334'
 os.environ['HTTPS_PROXY'] = 'socks5://127.0.0.1:12334'
 
-TOKEN = "8314129452:AAEBpb3G0dJIuRGDuSQCixzD88ULeEuZYB0"
+TOKEN = "your_TOKEN"
 
 app = ApplicationBuilder().token(TOKEN).build()
 
